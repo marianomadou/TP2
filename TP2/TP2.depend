@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1525818313 source:c:\users\administrador\downloads\apuntes tecnicatura\pruebas en c\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1525817983 c:\users\administrador\downloads\apuntes tecnicatura\pruebas en c\tp2\funciones.h
+
+1525817947 source:c:\users\administrador\downloads\apuntes tecnicatura\pruebas en c\tp2\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1527810590 source:c:\users\administrador\downloads\apuntes tecnicatura\pruebas en c\tp3_last\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<wchar.h>
+	<locale.h>
+
+1527810079 c:\users\administrador\downloads\apuntes tecnicatura\pruebas en c\tp3_last\funciones.h
+
+1527868731 source:c:\users\administrador\downloads\apuntes tecnicatura\pruebas en c\tp3_last\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1527869015 source:c:\users\administrador\downloads\apuntes tecnicatura\pruebas en c\tp3_mmadou\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1527810079 c:\users\administrador\downloads\apuntes tecnicatura\pruebas en c\tp3_mmadou\funciones.h
+
+1527869399 source:c:\users\administrador\downloads\apuntes tecnicatura\pruebas en c\tp3_mmadou\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<wchar.h>
+	<locale.h>
+
